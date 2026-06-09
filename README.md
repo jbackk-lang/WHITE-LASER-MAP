@@ -84,6 +84,27 @@ krytycznymi (skrętami):
 Między tymi punktami materia zmienia orientację, tworząc ciągi
 pierwiastków, które można czytać jak mapę, a nie jak tabelę.
 
+## Pełna tabela pierwiastków (1–118)
+
+### Legenda:
+- **Przed He** – stan przed wejściem do materii
+- **Skręt 1 (He)** – wejście do materii
+- **Między 1–2** – rozwój materii do maksimum stabilności
+- **Skręt 2 (Fe)** – maksimum stabilności jąder
+- **Między 2–3** – strefa rozpadu
+- **Skręt 3 (Og)** – wyjście z materii
+
+| Z | Symbol | Segment |
+|---|--------|---------|
+| 1 | H  | Przed He |
+| 2 | He | **Skręt 1** |
+| 3–25 | Li–Mn | Między 1–2 |
+| 26 | Fe | **Skręt 2** |
+| 27–117 | Co–Ts | Między 2–3 |
+| 118 | Og | **Skręt 3** |
+
+
+
 Przyjmujemy prosto:
 
 H – przed wejściem w materię
