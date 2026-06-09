@@ -1,2 +1,8 @@
-# UK-AD-OKRESOWY-WED-UG-HELU-MAPA-STRUKTURALNA-
-Układ okresowy według helu: hel jako stan poza zerem, żelazo jako maksimum stabilności, oganesson jako wyjście z materii.
+# Układ okresowy według helu – mapa strukturalna
+
+Model układu okresowego oparty na trzech skrętach Möbiusa:
+- hel (He) jako stan poza zerem i punkt skrętu,
+- żelazo (Fe) jako maksimum stabilności jąder,
+- oganesson (Og) jako wyjście z materii.
+
+Cała reszta pierwiastków jest opisana jako przejścia między tymi trzema punktami.
