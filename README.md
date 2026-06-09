@@ -270,3 +270,5 @@ z trzema punktami skrętu: He, Fe i Og.
                              |
                              v
                      [ WYJŚCIE Z MATERII ]
+                     
+![Diagram trzech skrętów](diagram.svg)
