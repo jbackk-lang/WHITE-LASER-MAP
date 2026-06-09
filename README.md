@@ -103,6 +103,28 @@ pierwiastków, które można czytać jak mapę, a nie jak tabelę.
 | 27–117 | Co–Ts | Między 2–3 |
 | 118 | Og | **Skręt 3** |
 
+## Dlaczego hel jest punktem skrętu?
+
+Hel jest jedynym pierwiastkiem, który nie zachowuje się jak klasyczna materia.
+To czyni go naturalnym punktem skrętu w strukturze:
+
+1. **Nie krystalizuje przy 0 K**  
+   Jako jedyny pierwiastek pozostaje cieczą nawet w temperaturze absolutnego zera.
+
+2. **Tworzy superpłyn**  
+   Hel-II ma zerową lepkość i zachowuje się jak stan poza klasyczną fizyką.
+
+3. **Ma idealne jądro alfa**  
+   2 protony + 2 neutrony tworzą najbardziej symetryczną konfigurację jądrową.
+
+4. **Nie reaguje chemicznie**  
+   Hel nie tworzy trwałych związków – nie uczestniczy w klasycznej chemii.
+
+5. **Ma najniższy możliwy stan elektronowy**  
+   Powłoka 1s jest całkowicie zamknięta i nie daje kierunku reaktywności.
+
+Te pięć cech sprawia, że hel nie należy do „materii” w klasycznym sensie.
+Dlatego jest **pierwszym skrętem Möbiusa** – wejściem do struktury.
 
 
 Przyjmujemy prosto:
