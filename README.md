@@ -1,350 +1,63 @@
-# Układ okresowy według helu – mapa strukturalna
-
-Model układu okresowego oparty na trzech skrętach Möbiusa:
-- hel (He) jako stan poza zerem i punkt skrętu,
-- żelazo (Fe) jako maksimum stabilności jąder,
-- oganesson (Og) jako wyjście z materii.
-
-Cała reszta pierwiastków jest opisana jako przejścia między tymi trzema punktami.
-
-## Mapa skrętów
-
-1. **Skręt 1 – Hel (He)**  
-   Stan poza zerem, punkt przejścia z „przed‑materii” do materii.
-
-2. **Skręt 2 – Żelazo (Fe)**  
-   Maksimum energii wiązania jąder, granica stabilności.
-
-3. **Skręt 3 – Oganesson (Og)**  
-   Koniec klasycznej materii, rozpad jąder i powłok.
-   
-## Oś przejść materii
-
-Struktura pierwiastków nie jest linią chemiczną, lecz topologiczną ścieżką
-przechodzącą przez trzy punkty skrętu:
-
-1. **Hel (He)** – stan poza zerem, wejście do materii.
-2. **Żelazo (Fe)** – maksimum stabilności jąder, odwrócenie orientacji.
-3. **Oganesson (Og)** – wyjście z materii, rozpad powłok i jąder.
-
-Każdy pierwiastek leży na tej osi jako etap przejścia między skrętami.
-
-## Pierwszy ciąg po skręcie (He → Li → Be → B → C → N)
-
-Po punkcie skrętu (He) materia zaczyna nabierać orientacji:
-
-- **Li** – pierwszy kierunek reaktywności.
-- **Be** – pierwsza stabilna sieć.
-- **B** – pierwsze struktury klastrowe.
-- **C** – pełna geometria, fundament chemii i życia.
-- **N** – pełna orientacja po skręcie.
-
-To jest narodzenie klasycznej materii.
-
-## Strefa stabilności (od tlenu do wapnia)
-
-W tym obszarze pierwiastki tworzą klasyczne chemie, wiązania, fazy
-i struktury krystaliczne. To jest pełne „zero” – materia w stanie
-najbardziej uporządkowanym i przewidywalnym.
-
-## Drugi skręt – Żelazo (Fe)
-
-Żelazo jest punktem maksymalnej stabilności jąder.
-Tu kończy się proces budowania, a zaczyna proces rozpadu.
-To drugi skręt Möbiusa w strukturze materii.
-
-## Strefa rozpadu (od kobaltu do ołowiu)
-
-Po przejściu przez Fe stabilność jąder maleje.
-Pierwiastki stają się coraz cięższe, ale coraz mniej trwałe.
-To zejście po drugim skręcie.
-
-## Trzeci skręt – Oganesson (Og)
-
-Oganesson jest końcem klasycznej materii.
-Powłoki elektronowe przestają działać, jądra żyją mikrosekundy.
-To wyjście z materii – trzeci skręt Möbiusa.
-
-## Fundamenty modelu
-
-Model opiera się na założeniu, że materia nie rozwija się liniowo,
-lecz topologicznie. Pierwiastki nie są zbiorem przypadkowych liczb
-protonów i neutronów, lecz etapami przejścia między trzema punktami
-krytycznymi (skrętami):
-
-1. **He – wejście do materii**  
-   Stan poza zerem, brak klasycznej orientacji, idealna symetria.
-
-2. **Fe – maksimum stabilności**  
-   Najwyższa energia wiązania jąder, punkt równowagi struktury.
-
-3. **Og – wyjście z materii**  
-   Koniec klasycznej chemii, rozpad powłok i jąder.
-
-Między tymi punktami materia zmienia orientację, tworząc ciągi
-pierwiastków, które można czytać jak mapę, a nie jak tabelę.
-
-## Pełna tabela pierwiastków (1–118)
-
-### Legenda:
-- **Przed He** – stan przed wejściem do materii
-- **Skręt 1 (He)** – wejście do materii
-- **Między 1–2** – rozwój materii do maksimum stabilności
-- **Skręt 2 (Fe)** – maksimum stabilności jąder
-- **Między 2–3** – strefa rozpadu
-- **Skręt 3 (Og)** – wyjście z materii
-
-| Z | Symbol | Segment |
-|---|--------|---------|
-| 1 | H  | Przed He |
-| 2 | He | **Skręt 1** |
-| 3–25 | Li–Mn | Między 1–2 |
-| 26 | Fe | **Skręt 2** |
-| 27–117 | Co–Ts | Między 2–3 |
-| 118 | Og | **Skręt 3** |
-
-## Dlaczego hel jest punktem skrętu?
-
-Hel jest jedynym pierwiastkiem, który nie zachowuje się jak klasyczna materia.
-To czyni go naturalnym punktem skrętu w strukturze:
-
-1. **Nie krystalizuje przy 0 K**  
-   Jako jedyny pierwiastek pozostaje cieczą nawet w temperaturze absolutnego zera.
-
-2. **Tworzy superpłyn**  
-   Hel-II ma zerową lepkość i zachowuje się jak stan poza klasyczną fizyką.
-
-3. **Ma idealne jądro alfa**  
-   2 protony + 2 neutrony tworzą najbardziej symetryczną konfigurację jądrową.
-
-4. **Nie reaguje chemicznie**  
-   Hel nie tworzy trwałych związków – nie uczestniczy w klasycznej chemii.
-
-5. **Ma najniższy możliwy stan elektronowy**  
-   Powłoka 1s jest całkowicie zamknięta i nie daje kierunku reaktywności.
-
-Te pięć cech sprawia, że hel nie należy do „materii” w klasycznym sensie.
-Dlatego jest **pierwszym skrętem Möbiusa** – wejściem do struktury.
-
-
-Przyjmujemy prosto:
-
-H – przed wejściem w materię
-
-He (2) – pierwszy skręt
-
-Fe (26) – drugi skręt
-
-Og (118) – trzeci skręt
-
-Reszta to odcinki między skrętami.
-
-| Z | Symbol | Rola w modelu wg He |
-| --- | --- | --- |
-| 1 | H | przed wejściem, stan przejściowy |
-| 2 | He | **skręt 1 – wejście do materii** |
-| 3 | Li | wyjście ze skrętu, pierwszy kierunek |
-| 4 | Be | pierwsza sieć stabilna |
-| 5 | B | pierwsze klastry |
-| 6 | C | pełna geometria, szkielet chemii |
-| 7 | N | pełna orientacja po skręcie |
-| 8 | O | strefa stabilności (początek) |
-| 9 | F | strefa stabilności |
-| 10 | Ne | strefa stabilności |
-| 11 | Na | strefa stabilności |
-| 12 | Mg | strefa stabilności |
-| 13 | Al | strefa stabilności |
-| 14 | Si | strefa stabilności |
-| 15 | P | strefa stabilności |
-| 16 | S | strefa stabilności |
-| 17 | Cl | strefa stabilności |
-| 18 | Ar | strefa stabilności (koniec pierwszego bloku) |
-| 19 | K | strefa stabilności |
-| 20 | Ca | strefa stabilności (granica „klasycznej” materii lekkiej) |
-| 21 | Sc | przejście w stronę jąder cięższych (do Fe) |
-| 22 | Ti | przejście do maksimum wiązania |
-| 23 | V | przejście do maksimum wiązania |
-| 24 | Cr | przejście do maksimum wiązania |
-| 25 | Mn | przed‑maksimum, przygotowanie do skrętu |
-| 26 | Fe | **skręt 2 – maksimum stabilności jąder** |
-| 27 | Co | po skręcie, początek strefy rozpadu |
-| 28 | Ni | strefa rozpadu (wysoka, ale malejąca stabilność) |
-| 29 | Cu | strefa rozpadu |
-| 30 | Zn | strefa rozpadu |
-| 31 | Ga | strefa rozpadu |
-| 32 | Ge | strefa rozpadu |
-| 33 | As | strefa rozpadu |
-| 34 | Se | strefa rozpadu |
-| 35 | Br | strefa rozpadu |
-| 36 | Kr | strefa rozpadu (koniec bloku) |
-
-
-
-| Z | Symbol | Rola w modelu wg He |
-| --- | --- | --- |
-| 37 | Rb | strefa rozpadu, cięższe jądra |
-| 38 | Sr | strefa rozpadu |
-| 39 | Y | strefa rozpadu |
-| 40 | Zr | strefa rozpadu |
-| 41 | Nb | strefa rozpadu |
-| 42 | Mo | strefa rozpadu |
-| 43 | Tc | niestabilny, wyraźny rozpad |
-| 44 | Ru | strefa rozpadu |
-| 45 | Rh | strefa rozpadu |
-| 46 | Pd | strefa rozpadu |
-| 47 | Ag | strefa rozpadu |
-| 48 | Cd | strefa rozpadu |
-| 49 | In | strefa rozpadu |
-| 50 | Sn | strefa rozpadu |
-| 51 | Sb | strefa rozpadu |
-| 52 | Te | strefa rozpadu |
-| 53 | I | strefa rozpadu |
-| 54 | Xe | strefa rozpadu (koniec kolejnego bloku) |
-
-
-| Z | Symbol | Rola w modelu wg He |
-| --- | --- | --- |
-| 55 | Cs | strefa rozpadu, ciężkie jądra |
-| 56 | Ba | strefa rozpadu |
-| 57 | La | strefa rozpadu (początek lantanowców) |
-| 58–71 | Ce–Lu | lantanowce, głęboka strefa rozpadu |
-| 72 | Hf | strefa rozpadu |
-| 73 | Ta | strefa rozpadu |
-| 74 | W | strefa rozpadu |
-| 75 | Re | strefa rozpadu |
-| 76 | Os | strefa rozpadu |
-| 77 | Ir | strefa rozpadu |
-| 78 | Pt | strefa rozpadu |
-| 79 | Au | strefa rozpadu |
-| 80 | Hg | strefa rozpadu |
-| 81 | Tl | strefa rozpadu |
-| 82 | Pb | strefa rozpadu (klasyczna granica ciężkich stabilnych) |
-| 83 | Bi | strefa rozpadu, granica stabilności praktycznej |
-| 84–86 | Po–Rn | silny rozpad, promieniotwórczość, wyjście z klasycznej stabilności |
-
-
-| Z | Symbol | Rola w modelu wg He |
-| --- | --- | --- |
-| 87 | Fr | głęboka strefa rozpadu |
-| 88 | Ra | głęboka strefa rozpadu |
-| 89 | Ac | aktynowce, wyjście z klasycznej materii |
-| 90–103 | Th–Lr | aktynowce, silny rozpad jąder |
-| 104–112 | Rf–Cn | superciężkie, krótkotrwałe jądra |
-| 113–117 | Nh–Ts | superciężkie, granica istnienia jąder |
-| 118 | Og | **skręt 3 – wyjście z materii, koniec układu** |
-
-
-## Diagram trzech skrętów Möbiusa
-
-Poniższy schemat pokazuje pełną strukturę materii jako taśmę Möbiusa
-z trzema punktami skrętu: He, Fe i Og.
-
-                     [ PRZED MATERIĄ ]
-                             |
-                             v
-                        (1) SKRĘT
-                           HELIUM
-                             He
-                             |
-                             v
-        ┌──────────────────────────────────────────┐
-        |      MATERIA NARASTAJĄCA (He → Fe)       |
-        |  Li → Be → B → C → N → ... → Mn → Fe     |
-        └──────────────────────────────────────────┘
-                             |
-                             v
-                        (2) SKRĘT
-                           ŻELAZO
-                             Fe
-                             |
-                             v
-        ┌──────────────────────────────────────────┐
-        |      MATERIA ROZPADAJĄCA SIĘ (Fe → Og)   |
-        |  Co → Ni → Cu → ... → Pb → ... → Ts      |
-        └──────────────────────────────────────────┘
-                             |
-                             v
-                        (3) SKRĘT
-                         OGANESSON
-                             Og
-                             |
-                             v
-                     [ WYJŚCIE Z MATERII ]
-                     
-![Diagram trzech skrętów](diagram.svg)
-
-
-![Diagram topologiczny He–Fe–Og](diagram_topologiczny.svg)
-
-
-## RATIO OBEIGÓW (2 → 24 → 118)
-
-### 1. Pierwszy obieg — 2 pierwiastki
-- struktura: 1 kierunek (orbital s)
-- pojemność: 2 elektrony
-- pierwiastki: H, He
-- **N₁ = 2**
-
-### 2. Drugi obieg — 24 pierwiastki
-- struktura: 3 kierunki (orbitale p)
-- pojemność okresu: 8 elektronów
-- trzy pełne „ósemki”: 3 × 8 = 24
-- **N₂ = 24**
-
-### 3. Nasz obieg — 118 pierwiastków
-- struktura: pełna siatka (s + p + d + f)
-- pełna tablica okresowa
-- **N₃ = 118**
+# MAPA‑PO‑HELU — Strukturalny układ okresowy  
+### Hel jako stan poza zerem • Żelazo jako maksimum stabilności • Oganesson jako wyjście z materii
+
+Ten model przedstawia **układ okresowy jako strukturę topologiczną**, a nie chemiczną tabelę.  
+Materia nie rozwija się liniowo — przechodzi przez **trzy skręty Möbiusa**, które definiują jej orientację, stabilność i granice istnienia.
 
 ---
 
-## Współczynniki redukcji
+## 1. Trzy skręty Möbiusa (He → Fe → Og)
 
-### Drugi → Pierwszy
+Model opiera się na trzech punktach krytycznych:
 
+### **1. Hel (He) — pierwszy skręt, wejście do materii**  
+Hel jest stanem **poza zerem**, nie zachowuje się jak klasyczna materia:  
+- nie krystalizuje przy 0 K   
+- tworzy superpłyn o zerowej lepkości   
+- ma idealne jądro alfa (2p + 2n)   
+- nie reaguje chemicznie   
 
-\[
-k_{2\to1} = \frac{N_1}{N_2} = \frac{2}{24} = \frac{1}{12}
-\]
-
-
-
-### Nasz → Pierwszy
-
-
-\[
-k_{3\to1} = \frac{N_1}{N_3} = \frac{2}{118} \approx \frac{1}{59}
-\]
-
-
+Dlatego jest **pierwszym skrętem Möbiusa** — wejściem do struktury materii.
 
 ---
 
-## Interpretacja
-- **1/12** — skala redukcji między obiegiem trójkątnym a minimalnym.
-- **1/59** — skala redukcji między pełną siatką a minimalnym.
-- Oba współczynniki wynikają wyłącznie z liczby pierwiastków w obiegach.
+### **2. Żelazo (Fe) — drugi skręt, maksimum stabilności jąder**  
+Fe ma **najwyższą energię wiązania jąder** — to punkt równowagi struktury.  
+Po nim zaczyna się **strefa rozpadu** (Co → Pb → …) .
 
 ---
 
-## Zastosowanie (widma)
-Przeskalowanie widma makro (gwiazda) do minimalnego widma (H/He):
+### **3. Oganesson (Og) — trzeci skręt, wyjście z materii**  
+Og to koniec klasycznej materii:  
+- powłoki elektronowe przestają działać  
+- jądra żyją mikrosekundy   
 
+To **wyjście z materii** — trzeci skręt Möbiusa.
 
+---
 
-\[
-\lambda^{(3\to1)} = \frac{\lambda_{\text{astro}}}{59}
-\]
+## 2. Oś przejść materii
 
+Struktura pierwiastków to **topologiczna ścieżka**, nie tabela:
 
+- **He → Fe** — materia narastająca, budowanie struktur  
+- **Fe → Og** — materia rozpadająca się, spadek stabilności  
+- każdy pierwiastek jest **etapem przejścia** między skrętami 
 
+---
 
+## 3. Segmenty materii
 
-\[
-\lambda^{(2\to1)} = \frac{\lambda_{\text{astro}}}{12}
-\]
+### **He → N — narodziny materii**  
+Po skręcie He materia nabiera orientacji:  
+Li (pierwszy kierunek) → Be (pierwsza sieć) → B (pierwsze klastry) → C (pełna geometria) → N (pełna orientacja) 
 
+---
 
+### **O → Ca — strefa stabilności**  
+Klasyczna chemia, krystaliczność, pełne „zero” materii 
 
-Po skalowaniu porównuje się **wzór odstępów** z liniami H/He.
+---
 
+### **Fe → Pb — strefa rozpadu**  
+Po Fe stabilność jąder maleje
