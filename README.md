@@ -4,6 +4,7 @@
 Ten model przedstawia układ okresowy jako **strukturę topologiczną**, a nie chemiczną tabelę.  
 Materia nie rozwija się liniowo — przechodzi przez **trzy skręty Möbiusa**, które definiują jej orientację, stabilność i granice istnienia.  
 
+![Mapa jąder po helu](./nazwa_pliku.png)
 
 ---
 
