@@ -91,6 +91,13 @@ Każdy pierwiastek jest **stanem przejściowym** na tej ścieżce.
 
 ---
 
+## Układ Si na osi przejść materii
+
+![Układ Si na osi przejść materii](./Copilot_20260614_153731.png)
+
+Centralny punkt stabilności (Si‑28) na osi He → Fe → Og, z rytmem `1 1 2 2` i wagami `4 8 -1 -2 -3`.
+
+
 ## 6. Zawartość repozytorium
 
 - `README.md` — opis modelu  
