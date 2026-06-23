@@ -1,3 +1,9 @@
+## 🔗 Wszystkie modele i repozytoria
+Pełna lista projektów znajduje się na stronie:
+https://jbackk-lang.github.io
+---
+
+
 # WHITE‑LASER‑MAP  
 Model białego lasera oparty na trójstanowym InGaN z opcjonalnym rozszerzeniem IR (3+1).  
 Połączenie fizyki półprzewodników i topologii skrętów.
